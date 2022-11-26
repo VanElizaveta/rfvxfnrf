@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(12, 165, 32);
+    padding: 20px;
+}
+
+header a {
+    color: rgb(0, 0, 0);
+    background-color: rgb(20, 247, 255);
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid rgb(248, 133, 133);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+}
+
+header img {
+    width: 200px;
+    height: 60px;
+}
+
+.sp_button {
+    background-color: #f8f401;
+    border: 1px solid #f715ff;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    background-color: #3bf10d;
+    color: rgb(253, 0, 0);
+    font-size: 30px;
+    padding: 10px;
+}
+
+main p {
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #895eec;
+    border-radius: 15px;
+}
+
+p img {
+    height: 150px;
+    width: 200px;
+}
+
+.nb_news {
+    background-color: navy;
+    color: white;
+}
+
+footer {
+    background-color: #8fddf2;
+    padding: 10px;
+}
+
+footer p {
+    background-color: rgb(196, 92, 92);
+    padding: 5px;
+}
+
